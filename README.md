@@ -15,7 +15,7 @@ Your users should be able to:
 #### 1440px
 ![App Screenshot](./screenshots/Screenshot_desktop.png)
 #### 375px
-![App Screenshot](./screenshots/Screenshot_mobile.png)
+![App Screenshot](/screenshots/Screenshot_mobile.png)
 
 
 ## 🔗 Links
