@@ -13,7 +13,7 @@ Your users should be able to:
 -  View the optimal layout for the site depending on their device's screen size
 ## Screenshots
 #### 1440px
-![App Screenshot](../screenshots/Screenshot_desktop.png)
+![App Screenshot](./screenshots/Screenshot_desktop.png)
 #### 375px
 ![App Screenshot](../screenshots/Screenshot_mobile.png)
 
